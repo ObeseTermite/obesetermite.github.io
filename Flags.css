@@ -1,0 +1,19 @@
+body{
+ background-image: url("https://thumbs.dreamstime.com/b/usa-flag-wallpaper-abstract-background-multiple-flags-32374526.jpg");
+}
+
+#demotext {
+color: rgb(256, 256, 256);
+background: rgb(186, 186, 186,0);
+text-shadow: rgb(50, 50, 50) 0px 2px 0px;
+--darkreader-inline-color:#aba398;
+--darkreader-inline-bgimage: initial;
+--darkreader-inline-bgcolor:#3f4447;
+}
+
+.box {
+	height: 800px;
+	width: 500px;
+	background-color: rgba(50,50,50,0.8);
+	color: #fff;
+}
